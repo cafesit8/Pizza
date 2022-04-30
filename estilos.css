@@ -6,7 +6,7 @@
 }
 /*section1*/
 .uno{
-	background-image: url(D:/Proyectos/Pizza/imagenes/fondo.png);
+	background-image: url(imagenes/fondo.png);
 	width: 100%;
 	height: 100vh;
 	background-size: cover;
@@ -80,7 +80,7 @@ ul li img:hover{
 }
 
 .dos{
-	background-image: url(D:/Proyectos/Pizza/imagenes/fondo2.png);
+	background-image: url(imagenes/fondo2.png);
 	width: 100%;
 	height: 100vh;
 	background-size: cover;
